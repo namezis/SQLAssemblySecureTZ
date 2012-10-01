@@ -1,4 +1,4 @@
 SQLAssemblySecureTZ
 ===================
 
-Assembly providing secure and decryption function.
+Assembly providing encryption and decryption function.
