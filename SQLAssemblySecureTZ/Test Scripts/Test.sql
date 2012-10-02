@@ -31,12 +31,9 @@
 -- select dbo.AggregateName(Column1) from Table1
 
 
-select 'To run your project, please edit the Test.sql file in your project. This file is located in the Test Scripts folder in the Solution Explorer.'
+-- select 'To run your project, please edit the Test.sql file in your project. This file is located in the Test Scripts folder in the Solution Explorer.'
 
 
+select dbo.EncryptTZ('test')
 
-
---ALTER FUNCTION [dbo].[ENCRYPT](@password [nvarchar](255), @encStringOut [nvarchar](255))
---RETURNS [nvarchar](255) WITH EXECUTE AS CALLER
---AS
---EXTERNAL NAME [SQLServerEncryption].[StoredProcedures].[Enc]
+select dbo.DecryptTZ('icsJQ2KzGPk=')
