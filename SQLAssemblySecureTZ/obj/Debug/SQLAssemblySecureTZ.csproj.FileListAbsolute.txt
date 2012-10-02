@@ -1,5 +1,0 @@
-D:\GitSource\SQLAssemblySecureTZ\SQLAssemblySecureTZ\bin\Debug\SQLAssemblySecureTZ.dll
-D:\GitSource\SQLAssemblySecureTZ\SQLAssemblySecureTZ\bin\Debug\SQLAssemblySecureTZ.pdb
-D:\GitSource\SQLAssemblySecureTZ\SQLAssemblySecureTZ\obj\Debug\ResolveAssemblyReference.cache
-D:\GitSource\SQLAssemblySecureTZ\SQLAssemblySecureTZ\obj\Debug\SQLAssemblySecureTZ.dll
-D:\GitSource\SQLAssemblySecureTZ\SQLAssemblySecureTZ\obj\Debug\SQLAssemblySecureTZ.pdb
