@@ -1,4 +1,4 @@
 SQLAssemblySecureTZ
 ===================
 
-Assembly providing encryption and decryption function.
+CLR assembly providing simple encryption and decryption function for SQL Server.
